@@ -1,0 +1,15 @@
+c:\Nicolas\Precedencia\bin\Debug\net9.0\Precedencia.exe
+c:\Nicolas\Precedencia\bin\Debug\net9.0\Precedencia.deps.json
+c:\Nicolas\Precedencia\bin\Debug\net9.0\Precedencia.runtimeconfig.json
+c:\Nicolas\Precedencia\bin\Debug\net9.0\Precedencia.dll
+c:\Nicolas\Precedencia\bin\Debug\net9.0\Precedencia.pdb
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.AssemblyInfoInputs.cache
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.AssemblyInfo.cs
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.csproj.CoreCompileInputs.cache
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.sourcelink.json
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.dll
+c:\Nicolas\Precedencia\obj\Debug\net9.0\refint\Precedencia.dll
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.pdb
+c:\Nicolas\Precedencia\obj\Debug\net9.0\Precedencia.genruntimeconfig.cache
+c:\Nicolas\Precedencia\obj\Debug\net9.0\ref\Precedencia.dll

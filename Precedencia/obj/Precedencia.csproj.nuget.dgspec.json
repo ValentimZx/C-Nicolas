@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nicolas\\Precedencia\\Precedencia.csproj": {}
+    "c:\\Nicolas\\Precedencia\\Precedencia.csproj": {}
   },
   "projects": {
-    "C:\\Nicolas\\Precedencia\\Precedencia.csproj": {
+    "c:\\Nicolas\\Precedencia\\Precedencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nicolas\\Precedencia\\Precedencia.csproj",
+        "projectUniqueName": "c:\\Nicolas\\Precedencia\\Precedencia.csproj",
         "projectName": "Precedencia",
-        "projectPath": "C:\\Nicolas\\Precedencia\\Precedencia.csproj",
+        "projectPath": "c:\\Nicolas\\Precedencia\\Precedencia.csproj",
         "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
-        "outputPath": "C:\\Nicolas\\Precedencia\\obj\\",
+        "outputPath": "c:\\Nicolas\\Precedencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
