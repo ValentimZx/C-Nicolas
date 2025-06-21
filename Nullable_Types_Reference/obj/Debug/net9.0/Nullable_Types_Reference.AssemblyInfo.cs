@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nullable_Types_Reference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ddc34eb73a0a7bf672b9b695f284ae27e07873f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d2b88757a941a356fb012fb940d64cae14befd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nullable_Types_Reference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nullable_Types_Reference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

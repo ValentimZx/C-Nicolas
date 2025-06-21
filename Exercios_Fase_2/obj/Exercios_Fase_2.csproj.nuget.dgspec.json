@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nicolas\\Operador_Unitario_Ternario\\Operador_Unitario_Ternario.csproj": {}
+    "c:\\Nicolas\\Exercios_Fase_2\\Exercios_Fase_2.csproj": {}
   },
   "projects": {
-    "C:\\Nicolas\\Operador_Unitario_Ternario\\Operador_Unitario_Ternario.csproj": {
+    "c:\\Nicolas\\Exercios_Fase_2\\Exercios_Fase_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nicolas\\Operador_Unitario_Ternario\\Operador_Unitario_Ternario.csproj",
-        "projectName": "Operador_Unitario_Ternario",
-        "projectPath": "C:\\Nicolas\\Operador_Unitario_Ternario\\Operador_Unitario_Ternario.csproj",
+        "projectUniqueName": "c:\\Nicolas\\Exercios_Fase_2\\Exercios_Fase_2.csproj",
+        "projectName": "Exercios_Fase_2",
+        "projectPath": "c:\\Nicolas\\Exercios_Fase_2\\Exercios_Fase_2.csproj",
         "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
-        "outputPath": "C:\\Nicolas\\Operador_Unitario_Ternario\\obj\\",
+        "outputPath": "c:\\Nicolas\\Exercios_Fase_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

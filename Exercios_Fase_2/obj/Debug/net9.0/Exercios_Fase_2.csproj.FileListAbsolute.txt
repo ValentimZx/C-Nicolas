@@ -1,0 +1,15 @@
+c:\Nicolas\Exercios_Fase_2\bin\Debug\net9.0\Exercios_Fase_2.exe
+c:\Nicolas\Exercios_Fase_2\bin\Debug\net9.0\Exercios_Fase_2.deps.json
+c:\Nicolas\Exercios_Fase_2\bin\Debug\net9.0\Exercios_Fase_2.runtimeconfig.json
+c:\Nicolas\Exercios_Fase_2\bin\Debug\net9.0\Exercios_Fase_2.dll
+c:\Nicolas\Exercios_Fase_2\bin\Debug\net9.0\Exercios_Fase_2.pdb
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.AssemblyInfoInputs.cache
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.AssemblyInfo.cs
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.csproj.CoreCompileInputs.cache
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.sourcelink.json
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.dll
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\refint\Exercios_Fase_2.dll
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.pdb
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\Exercios_Fase_2.genruntimeconfig.cache
+c:\Nicolas\Exercios_Fase_2\obj\Debug\net9.0\ref\Exercios_Fase_2.dll
