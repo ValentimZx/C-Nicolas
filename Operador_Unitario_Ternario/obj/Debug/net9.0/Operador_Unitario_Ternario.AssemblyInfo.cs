@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Operador_Unitario_Ternario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ddc34eb73a0a7bf672b9b695f284ae27e07873f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f15f481b0972480da2d3cb76d5d57037cf226997")]
 [assembly: System.Reflection.AssemblyProductAttribute("Operador_Unitario_Ternario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Operador_Unitario_Ternario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
