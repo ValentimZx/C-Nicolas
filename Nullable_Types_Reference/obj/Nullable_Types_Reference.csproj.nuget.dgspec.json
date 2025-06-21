@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nicolas\\Precedencia\\Precedencia.csproj": {}
+    "c:\\Nicolas\\Nullable_Types_Reference\\Nullable_Types_Reference.csproj": {}
   },
   "projects": {
-    "C:\\Nicolas\\Precedencia\\Precedencia.csproj": {
+    "c:\\Nicolas\\Nullable_Types_Reference\\Nullable_Types_Reference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nicolas\\Precedencia\\Precedencia.csproj",
-        "projectName": "Precedencia",
-        "projectPath": "C:\\Nicolas\\Precedencia\\Precedencia.csproj",
+        "projectUniqueName": "c:\\Nicolas\\Nullable_Types_Reference\\Nullable_Types_Reference.csproj",
+        "projectName": "Nullable_Types_Reference",
+        "projectPath": "c:\\Nicolas\\Nullable_Types_Reference\\Nullable_Types_Reference.csproj",
         "packagesPath": "C:\\Users\\borge\\.nuget\\packages\\",
-        "outputPath": "C:\\Nicolas\\Precedencia\\obj\\",
+        "outputPath": "c:\\Nicolas\\Nullable_Types_Reference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

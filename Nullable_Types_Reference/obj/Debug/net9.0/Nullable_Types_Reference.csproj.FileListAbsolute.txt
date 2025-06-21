@@ -1,0 +1,15 @@
+c:\Nicolas\Nullable_Types_Reference\bin\Debug\net9.0\Nullable_Types_Reference.exe
+c:\Nicolas\Nullable_Types_Reference\bin\Debug\net9.0\Nullable_Types_Reference.deps.json
+c:\Nicolas\Nullable_Types_Reference\bin\Debug\net9.0\Nullable_Types_Reference.runtimeconfig.json
+c:\Nicolas\Nullable_Types_Reference\bin\Debug\net9.0\Nullable_Types_Reference.dll
+c:\Nicolas\Nullable_Types_Reference\bin\Debug\net9.0\Nullable_Types_Reference.pdb
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.GeneratedMSBuildEditorConfig.editorconfig
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.AssemblyInfoInputs.cache
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.AssemblyInfo.cs
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.csproj.CoreCompileInputs.cache
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.sourcelink.json
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.dll
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\refint\Nullable_Types_Reference.dll
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.pdb
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\Nullable_Types_Reference.genruntimeconfig.cache
+c:\Nicolas\Nullable_Types_Reference\obj\Debug\net9.0\ref\Nullable_Types_Reference.dll

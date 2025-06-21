@@ -1,0 +1,15 @@
+c:\Nicolas\Operador_Unitario_Ternario\bin\Debug\net9.0\Operador_Unitario_Ternario.exe
+c:\Nicolas\Operador_Unitario_Ternario\bin\Debug\net9.0\Operador_Unitario_Ternario.deps.json
+c:\Nicolas\Operador_Unitario_Ternario\bin\Debug\net9.0\Operador_Unitario_Ternario.runtimeconfig.json
+c:\Nicolas\Operador_Unitario_Ternario\bin\Debug\net9.0\Operador_Unitario_Ternario.dll
+c:\Nicolas\Operador_Unitario_Ternario\bin\Debug\net9.0\Operador_Unitario_Ternario.pdb
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.AssemblyInfoInputs.cache
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.AssemblyInfo.cs
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.csproj.CoreCompileInputs.cache
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.sourcelink.json
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.dll
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\refint\Operador_Unitario_Ternario.dll
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.pdb
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\Operador_Unitario_Ternario.genruntimeconfig.cache
+c:\Nicolas\Operador_Unitario_Ternario\obj\Debug\net9.0\ref\Operador_Unitario_Ternario.dll

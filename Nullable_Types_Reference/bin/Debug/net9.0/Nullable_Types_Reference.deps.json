@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Nullable_Types_Reference/1.0.0": {
+        "runtime": {
+          "Nullable_Types_Reference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nullable_Types_Reference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
